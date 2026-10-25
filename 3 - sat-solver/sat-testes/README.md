@@ -5,8 +5,8 @@ SAT solver in C that reads DIMACS CNF files and uses the DPLL algorithm (unit pr
 ## Getting the code
 
 ```
-git clone https://github.com/USER/REPOSITORY.git
-cd REPOSITORY/"3- sat solver"
+git clone https://github.com/Gsantsxz08/Projeto_Estrutura_de_Dados_2026.2.git
+cd Projeto_Estrutura_de_Dados_2026.2/"3- sat solver"
 ```
 
 Or download the repository as a ZIP from GitHub (Code > Download ZIP), extract it, and enter the `3- sat solver` folder. The folder name has spaces, so keep the quotes in `cd`.
