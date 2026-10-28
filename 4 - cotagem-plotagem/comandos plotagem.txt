@@ -1,0 +1,7 @@
+Compilar:
+
+gcc main.c -o programa
+
+Executar o R:
+
+Rscript gráfico.R
