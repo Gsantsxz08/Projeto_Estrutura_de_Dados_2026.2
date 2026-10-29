@@ -2,6 +2,10 @@ Compilar:
 
 gcc main.c -o programa
 
+Depois de escolher a quantidade de dados e o numero de sorteios, apertar enter para ele fazer a comparaçao de cada sorteio
+
+Por fim, após todos os sorteios executar o R e abrir o .png feito.
+
 Executar o R:
 
 Rscript gráfico.R
